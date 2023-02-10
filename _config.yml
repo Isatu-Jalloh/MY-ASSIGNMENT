@@ -1,0 +1,19 @@
+title:        Eli Duke
+tagline:      Carpenter Apprentice at McMurdo Station
+description:  ""
+url:          https://eliduke.com
+assets:       https://assets.eliduke.com
+image:        https://eliduke.com/images/me-dry-valleys.jpg
+author:
+  name:       'Eli Duke'
+  email:      'elimduke@gmail.com'
+markdown:     kramdown
+permalink:    pretty
+highlighter:  rouge
+collections:
+  photography:
+    output: true
+    permalink: /photography/:path/
+  recipes:
+    output: true
+    permalink: /recipes/:path/
